@@ -3,14 +3,5 @@
 This is the first file in the repo.
 
 
-##Ipsum code
-kfdjhwefwefgvjgvj vfhwsefhgsrgrjgb
-dfjekawnfksngvmkjb
-nmfehfksewngvfmrnblgbnmlm fvnkswevfhjswvnlksm
-fvmnsjhvbkfdbnmlgnm jfvgrsjfgbjhbnlmnglm
-
-
-
-fnhwgkjvhrgkn nsgvsrghhjbg
-jbhgvrsjngbj
-gmhbdenjghbdjhbjdhnknjk
+##Website codes
+1. index.html
